@@ -1,3 +1,3 @@
 ### Git meet up
 - How git works  
-- Using is mark up language 
+- Using is mark down language 
